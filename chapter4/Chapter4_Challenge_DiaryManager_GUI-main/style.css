@@ -1,0 +1,17 @@
+.root {
+    -fx-font-family: "Segoe UI";
+    -fx-background-color: #f4f4f4;
+}
+
+.text-area {
+    -fx-font-size: 14px;
+}
+
+.button {
+    -fx-background-color: #2e8b57;
+    -fx-text-fill: white;
+}
+
+.list-view {
+    -fx-background-color: white;
+}
